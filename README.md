@@ -1,1 +1,1 @@
-# JavaPractice
+# JavaPractice and Algorithms practice
